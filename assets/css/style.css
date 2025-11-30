@@ -1004,7 +1004,7 @@ section#card_main {
 
 .moswa {
     color: var(--card-text);
-    font-size: 48px;
+    font-size: 42px;
     line-height: 64px;
     padding: 20px 0;
     margin: 0;
@@ -1016,6 +1016,7 @@ section#card_main {
     line-height: 30px;
     margin: 0;
     padding-bottom: 40px;
+    text-align: justify;
 }
 
 .circular_text_main {
